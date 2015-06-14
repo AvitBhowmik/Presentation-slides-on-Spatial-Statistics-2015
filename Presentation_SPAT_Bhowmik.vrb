@@ -1,0 +1,9 @@
+\frametitle{More than 53 \% of total area and 74 million people \protect\\ are at risk from arsenic, chromium, iron, nickel and lead}
+  %Sections group slides of the same topic
+
+  %\begin{minted}[fontsize=\small]{latex}
+    %\section{Elements}
+  %\end{minted}
+  %for which the \emph{mtheme} provides a nice progress indicator \ldots
+  \centering
+  \includegraphics[width=0.88\textwidth]{images/Surface_water_risk.png}
